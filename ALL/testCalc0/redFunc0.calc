@@ -1,0 +1,2 @@
+(define (zero) 0)
+(zero)
