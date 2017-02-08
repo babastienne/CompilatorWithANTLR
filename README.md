@@ -2,7 +2,7 @@
 
 ## Disclaimer
 
-
+Ce projet n'est pas complet, il a été effectué dans le cadre d'un cours. Vous pourrez trouver des versions plus complètes de ce projet ailleurs.
 
 ## Architecture du projet
 
